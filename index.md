@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+Note: This site is under development
 
-You can use the [editor on GitHub](https://github.com/vidlab/People/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Vision Intelligence and Data Lab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Vision Intelligence, and Data Laboratory (VIDLab) at Lakehead Universtiy is steered by Dr. T. Akilan. The lab fouces on research and development of efficient intelligent solutions for practical problems using computer vision, image processing, deep Learning, macine learing, and large data analytics.  
+
+The following are some of the on going research thems:
+
+1. Deep learning modesls for diagnosis of infectious respiratory diseases, like COVID-19, and pneumonia.
+2. Hareware implementation of a face-mask detection and indoor occupancy estimation system. 
+3. Machine leanring-based IoT anomaly detection. 
+
+
+
+
+
+
 
 ### Markdown
 
